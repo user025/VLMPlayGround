@@ -1,0 +1,4 @@
+yarn_00012_.png:
+    positive:  bottle, yarn art style, high contrast, full body, neat image
+    negative:   ugly, disfigured, deformed. hairy, tangled, disordered, flying, floating
+

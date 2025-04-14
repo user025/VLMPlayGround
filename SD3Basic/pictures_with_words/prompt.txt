@@ -1,0 +1,9 @@
+bottle.png:
+    a bottle with a rainbow galaxy inside it on top of a wooden table on a snowy mountain top with the ocean and clouds in the background
+gray_bottle_sketch.png:
+    a bottle with a rainbow painted in black and white  inside it on top of a wooden table on a snowy mountain top with the ocean and clouds in the background, sketch style, black and white
+gray_boken_bottle.png
+    a bottle with a rainbow painted in black and white  inside it on top of a wooden table on a  snowy mountain top with the ocean and clouds in the background, low angle view, black and white, background Bokeh
+girl.png
+    positive: photo of young woman, highlight hair, sitting outside restaurant, wearing dress, realistic, 8k, half shot
+    negative: ugly, hands, eating, lying, heavily make up, luscent clothes
