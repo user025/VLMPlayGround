@@ -1,0 +1,8 @@
+prompt for sd3:
+    positive: a brown Bichon Frise in space
+    negative: blur, shadow, halo around
+
+prompt for ground-dino:
+    the dog
+
+params for canny: 0.01, 0.8
